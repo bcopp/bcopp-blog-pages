@@ -1,0 +1,1 @@
+PySpread is a tiny spreadsheet program (less than 100 lines) that allows the composition of complex cell operations. It was designed as a research project and supports data serialization, multiple spreadsheet instances, and higher order functions. To keep the code compact it uses functions as data and leverages monadic bindings!

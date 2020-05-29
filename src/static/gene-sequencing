@@ -1,0 +1,1 @@
+This research project matches two gene-sequences and solves an optimization to find the least common operations to equate one to the other. Possible operations on the dna are (ADD, REMOVE, UPDATE) and the program itself uses a recursive backtracking technique. The code (hosted on github) contains an simple, optimized, and multi-processing solution.

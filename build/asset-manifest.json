@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bcopp-blog-pages/static/css/main.702b203b.chunk.css",
+    "main.js": "/bcopp-blog-pages/static/js/main.2b4420e6.chunk.js",
+    "main.js.map": "/bcopp-blog-pages/static/js/main.2b4420e6.chunk.js.map",
+    "runtime-main.js": "/bcopp-blog-pages/static/js/runtime-main.62e64461.js",
+    "runtime-main.js.map": "/bcopp-blog-pages/static/js/runtime-main.62e64461.js.map",
+    "static/css/2.8b358cb9.chunk.css": "/bcopp-blog-pages/static/css/2.8b358cb9.chunk.css",
+    "static/js/2.cea9690a.chunk.js": "/bcopp-blog-pages/static/js/2.cea9690a.chunk.js",
+    "static/js/2.cea9690a.chunk.js.map": "/bcopp-blog-pages/static/js/2.cea9690a.chunk.js.map",
+    "index.html": "/bcopp-blog-pages/index.html",
+    "precache-manifest.6ad2ac79724692d8716f480a993587fb.js": "/bcopp-blog-pages/precache-manifest.6ad2ac79724692d8716f480a993587fb.js",
+    "service-worker.js": "/bcopp-blog-pages/service-worker.js",
+    "static/css/2.8b358cb9.chunk.css.map": "/bcopp-blog-pages/static/css/2.8b358cb9.chunk.css.map",
+    "static/css/main.702b203b.chunk.css.map": "/bcopp-blog-pages/static/css/main.702b203b.chunk.css.map",
+    "static/js/2.cea9690a.chunk.js.LICENSE.txt": "/bcopp-blog-pages/static/js/2.cea9690a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bcopp-blog-pages/static/media/headshot.d58ce2fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e64461.js",
+    "static/css/2.8b358cb9.chunk.css",
+    "static/js/2.cea9690a.chunk.js",
+    "static/css/main.702b203b.chunk.css",
+    "static/js/main.2b4420e6.chunk.js"
+  ]
+}

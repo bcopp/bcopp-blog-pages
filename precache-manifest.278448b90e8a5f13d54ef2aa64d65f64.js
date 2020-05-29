@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7909c7fda7a91b01a1f4db97e3918d34",
+    "revision": "f9ef2c026f9a640b9641dbb4739d8cad",
     "url": "/bcopp-blog-pages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bcopp-blog-pages/static/css/2.8b358cb9.chunk.css"
   },
   {
-    "revision": "86a247c28468f2f22183",
+    "revision": "c5c0631e923955e64691",
     "url": "/bcopp-blog-pages/static/css/main.702b203b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bcopp-blog-pages/static/js/2.cea9690a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86a247c28468f2f22183",
-    "url": "/bcopp-blog-pages/static/js/main.2b4420e6.chunk.js"
+    "revision": "c5c0631e923955e64691",
+    "url": "/bcopp-blog-pages/static/js/main.d17a88d7.chunk.js"
   },
   {
     "revision": "6b398ca655e5cce8dc0d",

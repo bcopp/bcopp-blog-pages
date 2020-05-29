@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bcopp-blog-pages/precache-manifest.6ad2ac79724692d8716f480a993587fb.js"
+  "/bcopp-blog-pages/precache-manifest.278448b90e8a5f13d54ef2aa64d65f64.js"
 );
 
 self.addEventListener('message', (event) => {
